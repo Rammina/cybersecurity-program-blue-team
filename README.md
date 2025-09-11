@@ -38,9 +38,6 @@
 * [Red Line](<https://tryhackme.com/room/btredlinejoxr3d>) - Learn how to use Redline to perform memory analysis and scan for IOCs on an endpoint.
 * [Autopsy](<https://tryhackme.com/room/autopsy2ze0>) - Use Autopsy to investigate artifacts from a disk image.
 
-<!--lint disable double-link-->
-[↑](#contents)<!--lint enable double-link-->
-
 ### Level 2 - Security Operations, Incident Response & Threat Hunting
 
 * [Investigating Windows](<https://tryhackme.com/room/investigatingwindows>) - Investigating Windows.
@@ -55,10 +52,6 @@
 * [Hunting for Credential Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-5) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Credential Access (TA0006).
 * [Hunting for Persistence Access](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-2) - Join Cyborg Security's team of threat hunting instructors for a fun and hands-on-keyboard threat hunting workshop covering the topic of adversarial persistence (TA0003).
 * [Hunting for Defense Evation](https://info.cyborgsecurity.com/en-us/threat-hunting-workshop-4) - Join Cyborg Security's expert threat hunters as they dive into the interesting MITRE ATT&CK Tactic of Defense Evasion (TA0005).
-
-<!--lint disable double-link-->
-[↑](#contents)
-<!--lint enable double-link-->
 
 ### Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
@@ -77,9 +70,6 @@
 * [Intel101 Challenge](<https://cyberdefenders.org/blueteam-ctf-challenges/38>) - Medium level Threat Intel challenge.
 * [Introduction to Cryptohack](<https://cryptohack.org/courses/intro/course_details/>) - Medium level cryptography challenge.
 
-<!--lint disable double-link-->
-[↑](#contents)<!--lint enable double-link-->
-
 ### Level 4 - Memory & Disk Forensics
 
 * [Sleuthkit Intro](<https://play.picoctf.org/practice/challenge/301?category=4&page=2&solved=0>) - Medium level disk forensics challenge.
@@ -89,9 +79,6 @@
 * [Ulysses -  Linux Disk Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/41>) - Medium level disk forensics challenge.
 * [Banking Troubles - Windows Memory Image Forensics](<https://cyberdefenders.org/blueteam-ctf-challenges/43>) - Medium level memory forensics challenge.
 * [Detect Log4J](<https://cyberdefenders.org/blueteam-ctf-challenges/86>) - Medium level disk forensics challenge.
-
-<!--lint disable double-link-->
-[↑](#contents)<!--lint enable double-link-->
 
 ### Level 5 - Malware and Reverse Engineering
 
