@@ -35,7 +35,9 @@
 * [Mitre](<https://tryhackme.com/room/mitre>) -  Intro to Mitre attack framework.
 -->
 * [IntroSIEM](https://tryhackme.com/room/introtosiem) - Introduction to SIEM.
+<!--
 * [Yara](<https://tryhackme.com/room/yara>) -  Intro to yara for malware analysis.
+-->
 * [OpenVAS](<https://tryhackme.com/room/openvas>) - Intro to openvas.
 * [Intro to Honeypots](<https://tryhackme.com/room/introductiontohoneypots>) -  Intro to honeypots.
 * [Volatility](<https://cyberdefenders.org/blueteam-ctf-challenges/redline/>) - Intro to memory analysis with volatility.
