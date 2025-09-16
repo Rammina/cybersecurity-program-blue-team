@@ -31,7 +31,9 @@
 * [Introduction to digital forensics](https://tryhackme.com/room/introdigitalforensics) - Intro to Digital Forensics.
 * [Windows Fundamentals](<https://tryhackme.com/room/windowsfundamentals1xbx>) -  Intro to Windows.
 * [Nessus](<https://tryhackme.com/room/rpnessusredux>) - Intro to nessus scan.
+<!--
 * [Mitre](<https://tryhackme.com/room/mitre>) -  Intro to Mitre attack framework.
+-->
 * [IntroSIEM](https://tryhackme.com/room/introtosiem) - Introduction to SIEM.
 * [Yara](<https://tryhackme.com/room/yara>) -  Intro to yara for malware analysis.
 * [OpenVAS](<https://tryhackme.com/room/openvas>) - Intro to openvas.
